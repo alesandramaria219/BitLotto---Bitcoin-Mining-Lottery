@@ -3,12 +3,19 @@ BitLotto combines Bitcoin mining with provably fair lottery draws, creating an e
 ⭐ KEY FEATURES:
 
 ✅ 100% Decentralized - No Central Control
+
 ✅ Provably Fair Randomness - Verifiable On-Chain
+
 ✅ Real-time Statistics Dashboard
+
 ✅ 1st-4th Place Prize Distribution
+
 ✅ Low 2% Platform Fees
+
 ✅ Mobile & Desktop Optimized
+
 ✅ Instant BTC Payouts to Winners
+
 
 🎯 HOW BITLOTTO WORKS:
 
