@@ -20,17 +20,26 @@ BitLotto combines Bitcoin mining with provably fair lottery draws, creating an e
 🎯 HOW BITLOTTO WORKS:
 
 1️⃣ Connect Your Bitcoin Wallet
+
 2️⃣ Contribute Hash Power (Earn Tickets)
+
 3️⃣ Wait for Block Mining (1-15 minutes)
+
 4️⃣ Win Bitcoin Prizes (Places 1-4)
+
 5️⃣ Withdraw Your Winnings Instantly
+
 
 💰 PRIZE BREAKDOWN:
 
 🥇 1st Place: 60% of Mining Pool
+
 🥈 2nd Place: 25% of Mining Pool
+
 🥉 3rd Place: 10% of Mining Pool
+
 4️⃣ 4th Place: 5% of Mining Pool
+
 
 🔒 SECURITY & TRANSPARENCY:
 
