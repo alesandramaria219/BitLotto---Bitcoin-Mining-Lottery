@@ -1,5 +1,7 @@
 BitLotto combines Bitcoin mining with provably fair lottery draws, creating an exciting ecosystem where your hash power earns you tickets to win massive BTC prizes! Unlike traditional mining pools, BitLotto adds an element of chance and excitement while maintaining complete transparency.
 
+[Alt text](screenshot.png)
+
 ⭐ KEY FEATURES:
 
 ✅ 100% Decentralized - No Central Control
